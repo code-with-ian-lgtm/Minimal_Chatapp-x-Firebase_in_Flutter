@@ -21,4 +21,3 @@ samples, guidance on mobile development, and a full API reference.
 ![Screenshot from 2024-01-22 19-22-17](https://github.com/code-with-ian-lgtm/Minimal_Chatapp-x-Firebase_in_Flutter/assets/108881212/6924c071-d9e6-4edc-a1c1-d6fea99652ca)
 ![Screenshot from 2024-01-22 18-53-28](https://github.com/code-with-ian-lgtm/Minimal_Chatapp-x-Firebase_in_Flutter/assets/108881212/f6c154cc-4266-4e8c-b016-76ab6b8db393)
 ![Screenshot from 2024-01-22 18-54-19](https://github.com/code-with-ian-lgtm/Minimal_Chatapp-x-Firebase_in_Flutter/assets/108881212/f9b4125d-6155-4ba4-acad-facc234fe472)
-![Uploading Screenshot from 2024-01-22 19-25-28.png…]()
