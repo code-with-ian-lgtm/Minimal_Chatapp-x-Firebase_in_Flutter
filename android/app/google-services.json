@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638646815514",
+    "project_id": "travel-101-da310",
+    "storage_bucket": "travel-101-da310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638646815514:android:bab043c3dc4c3eddc57aa3",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaQT89UH9ZSrQLFJGgl7YXA2yt2-8TK9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
